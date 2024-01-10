@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">amazon</string>
+    <string name="type_your_email_here">Type your email here</string>
+    <string name="email_phpne_for_mobile_account">Email(phpne for mobile account)</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="password">Password</string>
+    <string name="type_your_password_here">Type your password here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_to_amazon">New to Amazon</string>
+    <string name="create_your_amazon_account">Create Your Amazon Account</string>
+    <string name="sign_imn">Sign In</string>
+</resources>

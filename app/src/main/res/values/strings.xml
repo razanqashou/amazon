@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">amazon</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_phone_for_mobile_account">Email(phone for mobile account)</string>
+    <string name="type_your_email_here">Type your email here</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="type_your_password_here">Type your password here</string>
+    <string name="sign_in2">Sign In</string>
+    <string name="new_to_amazon">New to Amazon</string>
+    <string name="create_your_amazon_account">Create Your Amazon Account</string>
+    <string name="you_click_the_menu_item">you click the menu item</string>
+    <string name="you_click_the_menu_icon">you click the menu icon</string>
+
+
+</resources>

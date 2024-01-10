@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">امازون</string>
+    <string name="sign_in">الدخول</string>
+    <string name="email_phone_for_mobile_account">البريد الالكتروني(الهاتف لحساب الجوال)</string>
+    <string name="type_your_email_here">ادخل ايميلك هنا</string>
+    <string name="password">كلمة السر</string>
+    <string name="forgot_your_password">نسيت كلمة السر؟</string>
+    <string name="type_your_password_here">ادخل كلمة المرور هنا</string>
+    <string name="sign_in2">لدخول</string>
+    <string name="new_to_amazon">عميل جديد</string>
+    <string name="create_your_amazon_account">تفعيل حساب جديد</string>
+    <string name="you_click_the_menu_item">قمت بالنقر فوق عنصر القائمة</string>
+    <string name="you_click_the_menu_icon">قمت بالنقر فوق رمز القائمة</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أمازون</string>
+    <string name="type_your_email_here">ادخل ايميلك هنا</string>
+    <string name="email_phpne_for_mobile_account">البريد الالكتروني(الهاتف لحساب الجوال)</string>
+    <string name="forgot_your_password">نسيت كلمة السر؟</string>
+    <string name="password">كلمة السر</string>
+    <string name="type_your_password_here">ادخل كلمة المرور هنا</string>
+    <string name="sign_in">الدخول</string>
+    <string name="new_to_amazon">عميل جديد</string>
+    <string name="create_your_amazon_account">تفعيل حساب جديد</string>
+    <string name="sign_imn">لدخول</string>
+</resources>
